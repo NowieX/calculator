@@ -53,7 +53,10 @@ def choose_calculate_option(what_to_calculate):
         exit()
     
 def multiply_input():
-    
+    # 1. make an input
+    # 2. create an empty list and add the numbers the user puts in
+    # 3. multiply the numbers from the empty list
+    pass
 
 def main():
     print("*** Welcome to the calculator! ***")
